@@ -16,8 +16,7 @@ Autor: BW. Wersja: Pomoc → O programie. Licencja: bezpłatna, także do użytk
 
 1. Rozpakuj ZIP. Kliknij prawym przyciskiem `GpgLite.dll` → Właściwości → **Odblokuj** (jeśli jest taka opcja).
 2. Zamknij Outlooka i uruchom `Zainstaluj.cmd` (bieżący użytkownik, bez uprawnień administratora) albo
-   `Zainstaluj-dla-wszystkich.cmd` (wszyscy użytkownicy, wymaga administratora; zalecane, bo pliku dodatku nie
-   zmieni wtedy żaden program działający bez uprawnień administratora).
+   `Zainstaluj-dla-wszystkich.cmd` (wszyscy użytkownicy, wymaga administratora);
 3. Instalator zaproponuje wyłączenie GpgOL. GpgLite i GpgOL nie powinny działać jednocześnie.
 4. Uruchom Outlooka. Grupa **GpgLite (OpenPGP)** pojawi się na karcie Narzędzia główne, w oknie wiadomości
    i w oknie nowej wiadomości.
